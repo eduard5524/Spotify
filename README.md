@@ -1,7 +1,7 @@
 # Spotify
 Spotify Application in Java
 
-Instructions for using Spotify App
+Instructions for using Spotify - Client
 1. Import the database.
 2. Put the name espotifai in the database if you don't have it, in case of problems consult the existing "config.json" file in the Spotify-Server eclipse project.
 3. Run the Spotify-Server Java project.
@@ -17,7 +17,7 @@ Instructions for using Spotify App
 11. In the left panel you have the possibility to add local files of the own computer to the program. Clicking on "Archivos Locale / Open Folder". (Only MP3s will be accepted)
 12. In the upper left corner, there is a song finder, same operation as that of users.
 
-eSpotifai-Server Instructions
+Spotify - Server Instructions
 
 1. To play a song, double click on the song in the "List + Delete" table
 2. To delete a song from this table, click on the song and then right click and try the "Delete" option
